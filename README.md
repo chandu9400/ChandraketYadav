@@ -22,5 +22,9 @@ A Front-end login page with OTP generation
 
 (v) Click on "LOG OUT" to return back to main page.
 
+The page appears like this:
+
+![image](https://user-images.githubusercontent.com/66731168/200156204-cffed26f-c696-466a-8f2a-7f36403d5b27.png)
+
 
 
